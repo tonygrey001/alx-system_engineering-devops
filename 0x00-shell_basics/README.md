@@ -1,1 +1,1 @@
-current directory in long
+long list hidden file
