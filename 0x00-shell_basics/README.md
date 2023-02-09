@@ -1,1 +1,1 @@
-moving all uppercase file
+deleting files
