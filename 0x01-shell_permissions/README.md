@@ -1,1 +1,1 @@
-current user
+all users
