@@ -1,1 +1,1 @@
-look in the mirror
+permission for sub dir
