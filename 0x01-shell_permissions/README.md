@@ -1,1 +1,1 @@
-owners and group
+if only
