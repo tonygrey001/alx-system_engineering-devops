@@ -1,1 +1,1 @@
-display a confuse smiley
+display content
