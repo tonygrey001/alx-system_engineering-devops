@@ -1,1 +1,1 @@
-script that prints hello world
+display a confuse smiley
