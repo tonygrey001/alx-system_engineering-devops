@@ -1,1 +1,1 @@
-line duplication
+deleting java scripts
