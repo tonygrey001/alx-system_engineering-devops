@@ -1,1 +1,1 @@
-all users and their home directories
+empty casks
