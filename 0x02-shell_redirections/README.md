@@ -1,1 +1,1 @@
-deleting java scripts
+count directories
