@@ -1,1 +1,1 @@
-count directories
+list ten files
