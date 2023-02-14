@@ -1,1 +1,1 @@
-files that do not contain pattern
+display lines of the file
